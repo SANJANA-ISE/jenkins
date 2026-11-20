@@ -1,7 +1,7 @@
 class app{
     public static void main(String[] args) {
         int a = 10;
-        int b = 10;
+        int b = 110;
 
         int sum = a + b;
 
