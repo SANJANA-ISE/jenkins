@@ -1,7 +1,7 @@
 class app{
     public static void main(String[] args) {
-        int a = 10;
-        int b = 110;
+        int a = 30;
+        int b = 50;
 
         int add = a + b;
 
