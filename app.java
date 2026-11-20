@@ -3,7 +3,7 @@ class app{
         int a = 10;
         int b = 110;
 
-        int sum = a + b;
+        int add = a + b;
 
         System.out.println("Result = " + sum);
     }
